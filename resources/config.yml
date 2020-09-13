@@ -24,29 +24,29 @@ dev_mode: false
 
 # You can choose this to be any permission you'd like so
 # that staff members get Mockingbird alerts, etc.
-alert_permission: "mockingbird.alerts"
+alert_permission: "anticheat.alerts"
 
 # You can choose this permission to anything you'd like.
 # This permission is for getting player logs.
-log_permission: "mockingbird.logs"
+log_permission: "anticheat.logs"
 
 # This is for module permission such as using /mbenable, /mbdisable, and /mbreload
 # to enable and disable modules through commands.
-module_permission: "mockingbird.modules"
+module_permission: "anticheat.modules"
 
 # This is a permission for the screenshare command that will allow the player
 # to "screenshare" other a selected player.
-screenshare_permission: "mockingbird.screenshare"
+screenshare_permission: "anticheat.screenshare"
 
 # This is a bypass permission you can give to people, this means
 # that they will NOT be violated for cheats.
-bypass_permission: "mockingbird.bypass"
+bypass_permission: "anticheat.bypass"
 
 # Type any prefix you want for AntiCheat alerts.
-prefix: "§l§cMockingbird§4>"
+prefix: "§l§cAntiCheat§4>"
 
 # Prefix shown for when a player is punished, (kick, ban, block)
-punish_prefix: "§l§b§cMocking§4bird"
+punish_prefix: "§l§b§cAntiCheat"
 
 # This option is for the max violations a player can get before
 # they are punished by Mockingbird
